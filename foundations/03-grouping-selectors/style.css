@@ -1,0 +1,17 @@
+
+.e1,
+.e2 {
+    font-size: 28px;
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+.e1 {
+    background-color: black;
+    color: red;
+    font-weight: bold;
+}
+
+.e2 {
+    background-color: chartreuse;
+
+}
